@@ -1,0 +1,9 @@
+{
+  "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=mobile&_sacat=0",
+  "features": {
+    "concepts": {},
+    "entities":{}
+  },
+  "return_analyzed_text": false,
+  "xpath": "/html/body/div[4]/div[5]/div[1]/div/div[1]/div[2]/span[1]/button/span/span"
+}

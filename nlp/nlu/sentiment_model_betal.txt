@@ -1,0 +1,31 @@
+— NLU custom sentiment model
+
+### Create Model
+curl -X POST -u "apikey:LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+-H "Content-Type: multipart/form-data" \
+-F "name=MySentimentModel" \
+-F "language=en" \
+-F "description=Test sentiment model" \
+-F "version=1.0.1" \
+-F "version_description=My version description" \
+-F "training_data=@sentiment_data.csv;type=text/csv" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/models/sentiment?version=2019-07-12"
+
+### List Model
+curl -X GET -u "apikey:LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/models/sentiment?version=2019-07-12"
+
+### Analyzing text with custom sentiment models
+  curl --user "apikey":"LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/analyze?version=2019-07-12" \
+  --request POST \
+  --header "Content-Type: application/json" \
+  --data @parameters.json
+
+### x-path
+curl --user "apikey:LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/analyze?version=2018-09-21" \
+--request POST \
+--header "Content-Type: application/json" \
+--data @parameters-4-url-xpath.json
+

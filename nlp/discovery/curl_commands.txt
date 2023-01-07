@@ -1,0 +1,41 @@
+****** crawl web *******
+
+# Create new Configuration
+
+curl -X POST -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" -H "Content-Type: application/json" -d @config.json "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/configurations?version=2019-04-30"
+
+#Create new Collection
+
+curl -X POST -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" -H "Content-Type: application/json" -d '{
+  "name": "cover-19-demo",
+  "description": "single collection - connected to multiple data source - web crawling and local file system",
+  "configuration_id": "42449b8b-689c-44d7-ba87-c413024f1e59",
+  "language": "en"
+}' "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/collections?version=2019-04-30"
+
+****** crawl COS buckets *******
+
+# Create new Configuration
+
+curl -X POST -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" -H "Content-Type: application/json" -d @config.json "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/configurations?version=2019-04-30"
+
+#Create new Collection
+
+curl -X POST -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" -H "Content-Type: application/json" -d '{
+  "name": "cover-19-demo-crawl-COS-buckets",
+  "description": "single collection - connected to multiple data source - crawl COS buckets and local file system",
+  "configuration_id": "fbe72be7-f0ac-4df5-b963-f31dbd8bf5ef",
+  "language": "en"
+}' "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/collections?version=2019-04-30"
+
+
+# Create Credentials
+
+curl -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" -X POST -H "Content-Type: application/json" -d '{  "source_type": "cloud_object_storage", "credential_details": { "credential_type": "aws4_hmac", "endpoint": "s3.ap.cloud-object-storage.appdomain.cloud", "access_key_id" : "12a28479705e49cc807d92e27648c9ba", "secret_access_key" : "ef4e6da413037f77b53f4f5b7c59f355d6dae41140595e10"}}' "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/credentials?version=2019-04-30"
+ 
+
+#get Collection Details
+
+curl -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/configurations/48f1c158-dca6-4fcb-b71f-642ae4bf3af4?version=2019-04-30"
+
+curl -u "apikey":"aMPOWwYIaCNU4s6WEx2jM1GRCLm6z8m0xjscpQAw4Qtm" "https://gateway.watsonplatform.net/discovery/api/v1/environments/329dc8a3-e0d1-49f2-9ec2-3a4bf21dc9c0/configurations/b7700784-894e-4de9-9e73-36400f868511?version=2019-04-30"

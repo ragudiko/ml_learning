@@ -1,0 +1,674 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 3
+  },
+  "retrieved_url": "https://www.mohfw.gov.in/",
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Covid-19 facilities",
+      "relevance": 0.721947,
+      "count": 1
+    },
+    {
+      "text": "operational guidelines",
+      "relevance": 0.673332,
+      "count": 2
+    },
+    {
+      "text": "DO Letter of Secretary",
+      "relevance": 0.623946,
+      "count": 2
+    },
+    {
+      "text": "COVID-19",
+      "relevance": 0.612431,
+      "count": 75
+    },
+    {
+      "text": "Additional Travel Advisory",
+      "relevance": 0.597225,
+      "count": 4
+    },
+    {
+      "text": "Standard Operating Procedure",
+      "relevance": 0.589476,
+      "count": 5
+    },
+    {
+      "text": "preventive measures",
+      "relevance": 0.574003,
+      "count": 37
+    },
+    {
+      "text": "Latest Updates",
+      "relevance": 0.569141,
+      "count": 1
+    },
+    {
+      "text": "Monitoring of the quality standards of hand Sanitizers",
+      "relevance": 0.563829,
+      "count": 1
+    },
+    {
+      "text": "domestic travel",
+      "relevance": 0.5564,
+      "count": 2
+    },
+    {
+      "text": "Ministry of AYUSH",
+      "relevance": 0.556133,
+      "count": 3
+    },
+    {
+      "text": "COVID-19 Vaccine Communication Strategy",
+      "relevance": 0.554744,
+      "count": 2
+    },
+    {
+      "text": "D.O. Letter",
+      "relevance": 0.551269,
+      "count": 8
+    },
+    {
+      "text": "Tobacco Use",
+      "relevance": 0.549217,
+      "count": 3
+    },
+    {
+      "text": "management of COVID-19",
+      "relevance": 0.54789,
+      "count": 2
+    },
+    {
+      "text": "COVID-19 vaccines",
+      "relevance": 0.540699,
+      "count": 2
+    },
+    {
+      "text": "Audio visual",
+      "relevance": 0.537608,
+      "count": 7
+    },
+    {
+      "text": "state bus travel",
+      "relevance": 0.532912,
+      "count": 2
+    },
+    {
+      "text": "Covid-19 Scenario",
+      "relevance": 0.532214,
+      "count": 5
+    },
+    {
+      "text": "Home Isolation",
+      "relevance": 0.530869,
+      "count": 9
+    },
+    {
+      "text": "Name of State",
+      "relevance": 0.530492,
+      "count": 1
+    },
+    {
+      "text": "Standard Operating Procedures",
+      "relevance": 0.530113,
+      "count": 2
+    },
+    {
+      "text": "Ministry of Human Resource Development",
+      "relevance": 0.52957,
+      "count": 2
+    },
+    {
+      "text": "Clinical Guidance",
+      "relevance": 0.527259,
+      "count": 2
+    },
+    {
+      "text": "COVID-19 INDIA",
+      "relevance": 0.527065,
+      "count": 1
+    },
+    {
+      "text": "Second Interim National Guidance",
+      "relevance": 0.52664,
+      "count": 2
+    },
+    {
+      "text": "Behavioural Health",
+      "relevance": 0.526213,
+      "count": 1
+    },
+    {
+      "text": "Addressing Psychosocial Concerns of Healthcare Workers",
+      "relevance": 0.525952,
+      "count": 2
+    },
+    {
+      "text": "Health Care Warriors",
+      "relevance": 0.525842,
+      "count": 1
+    },
+    {
+      "text": "disinfection of common public places",
+      "relevance": 0.525343,
+      "count": 3
+    },
+    {
+      "text": "Hon'ble HFM Letter",
+      "relevance": 0.525166,
+      "count": 1
+    },
+    {
+      "text": "COVID-19 Management",
+      "relevance": 0.524359,
+      "count": 7
+    },
+    {
+      "text": "Government of Karnataka",
+      "relevance": 0.523488,
+      "count": 1
+    },
+    {
+      "text": "National Institute of Mental Health",
+      "relevance": 0.523438,
+      "count": 1
+    },
+    {
+      "text": "Pradhan Mantri Garib Kalyan Package",
+      "relevance": 0.522869,
+      "count": 4
+    },
+    {
+      "text": "new variant of SARS-CoV-2",
+      "relevance": 0.522843,
+      "count": 3
+    },
+    {
+      "text": "Mental Illness",
+      "relevance": 0.521845,
+      "count": 1
+    },
+    {
+      "text": "Cabinet Secretary",
+      "relevance": 0.521157,
+      "count": 6
+    },
+    {
+      "text": "Chief Secretaries of all States",
+      "relevance": 0.521111,
+      "count": 1
+    },
+    {
+      "text": "Gazette Notification",
+      "relevance": 0.519954,
+      "count": 4
+    },
+    {
+      "text": "Guidelines",
+      "relevance": 0.518948,
+      "count": 71
+    },
+    {
+      "text": "land check posts-COVID",
+      "relevance": 0.518685,
+      "count": 1
+    },
+    {
+      "text": "Infection-issue of medicines",
+      "relevance": 0.518299,
+      "count": 2
+    },
+    {
+      "text": "Awareness Material",
+      "relevance": 0.518235,
+      "count": 12
+    },
+    {
+      "text": "Consolidated Travel Advisory",
+      "relevance": 0.517607,
+      "count": 1
+    },
+    {
+      "text": "Ministry of Consumer Affairs",
+      "relevance": 0.51749,
+      "count": 2
+    },
+    {
+      "text": "List of manufacturers of PPE coveralls",
+      "relevance": 0.516904,
+      "count": 2
+    },
+    {
+      "text": "Mental Health Matters",
+      "relevance": 0.516846,
+      "count": 1
+    },
+    {
+      "text": "spread of COVID-19",
+      "relevance": 0.516722,
+      "count": 35
+    },
+    {
+      "text": "Updated Clinical Management Protocol",
+      "relevance": 0.516583,
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "COVID-19",
+      "relevance": 0.871741,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 162
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "relevance": 0.509971,
+      "disambiguation": {
+        "subtype": [
+          "HumanLanguage",
+          "Region",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "India",
+        "dbpedia_resource": "http://dbpedia.org/resource/India"
+      },
+      "count": 24
+    },
+    {
+      "type": "Company",
+      "text": "COVID-19 Management",
+      "relevance": 0.479939,
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "AIIMS",
+      "relevance": 0.382426,
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "Hospital",
+          "University"
+        ],
+        "name": "All India Institute of Medical Sciences",
+        "dbpedia_resource": "http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences"
+      },
+      "count": 8
+    },
+    {
+      "type": "Facility",
+      "text": "designated hospital",
+      "relevance": 0.332891,
+      "count": 8
+    },
+    {
+      "type": "Facility",
+      "text": "Pradhan Mantri Garib Kalyan",
+      "relevance": 0.320701,
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "COVID Warriors",
+      "relevance": 0.305445,
+      "count": 2
+    },
+    {
+      "type": "Drug",
+      "text": "Hydroxychloroquine",
+      "relevance": 0.296763,
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Personal Protective Equipment",
+      "relevance": 0.287112,
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "ICMR",
+      "relevance": 0.28526,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Indian Council of Medical Research",
+        "dbpedia_resource": "http://dbpedia.org/resource/Indian_Council_of_Medical_Research"
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "Healthcare Service Personnel",
+      "relevance": 0.279288,
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Dead Body Management",
+      "relevance": 0.267306,
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "General Medical and Specialised Mental Health Care Settings",
+      "relevance": 0.265927,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of AYUSH",
+      "relevance": 0.262389,
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "COVID Care Centre",
+      "relevance": 0.260686,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "COVID-19 Englsih",
+      "relevance": 0.259767,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Safe Ophthalmology Practices",
+      "relevance": 0.259148,
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "relevance": 0.257933,
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "lndia",
+      "relevance": 0.252543,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "United Kingdom",
+      "relevance": 0.251701,
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 6
+    },
+    {
+      "type": "PrintMedia",
+      "text": "National Clinical Management Guidelines",
+      "relevance": 0.251261,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Indian Council of Medical Research",
+      "relevance": 0.250203,
+      "disambiguation": {
+        "subtype": [
+          "Company"
+        ],
+        "name": "Indian Council of Medical Research",
+        "dbpedia_resource": "http://dbpedia.org/resource/Indian_Council_of_Medical_Research"
+      },
+      "count": 8
+    },
+    {
+      "type": "Organization",
+      "text": "Insurance Health Workers",
+      "relevance": 0.248727,
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "non-COVID Health Facility",
+      "relevance": 0.246709,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "hand Sanitizers",
+      "relevance": 0.245792,
+      "count": 5
+    },
+    {
+      "type": "HealthCondition",
+      "text": "SARS",
+      "relevance": 0.244159,
+      "disambiguation": {
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "Disease"
+        ],
+        "name": "Severe acute respiratory syndrome",
+        "dbpedia_resource": "http://dbpedia.org/resource/Severe_acute_respiratory_syndrome"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "OPD Medicines Special Sanction",
+      "relevance": 0.243328,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "AIIMS New Delhi",
+      "relevance": 0.240702,
+      "count": 9
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of Health",
+      "relevance": 0.23989,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Consolidated Travel Advisory",
+      "relevance": 0.23892,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Clinical Management Protocol",
+      "relevance": 0.236942,
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "Patient Management Facility",
+      "relevance": 0.235097,
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Management- International Cruise Ships",
+      "relevance": 0.232187,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "MODI",
+      "relevance": 0.226327,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Modi Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/Modi_Group"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "International Arrivals",
+      "relevance": 0.226116,
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of Textiles",
+      "relevance": 0.22196,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Hospitals and Medical Institutions",
+      "relevance": 0.219054,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of Consumer Affairs",
+      "relevance": 0.218409,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr Guleria",
+      "relevance": 0.218066,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Hospital Preparedness",
+      "relevance": 0.217853,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Essential RMNCAH+N Services",
+      "relevance": 0.215705,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Ministry of Health and Family Welfare",
+      "relevance": 0.215099,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ministry of Health and Family Welfare (India)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ministry_of_Health_and_Family_Welfare_(India)"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary Health to Chief Secretaries",
+      "relevance": 0.214042,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Other Hospitality Units",
+      "relevance": 0.213529,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Entertainment Parks",
+      "relevance": 0.213225,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Gated Residential Complexes",
+      "relevance": 0.21186,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Health care",
+      "relevance": 0.975863,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "Health care provider",
+      "relevance": 0.798889,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care_provider"
+    },
+    {
+      "text": "Healthcare",
+      "relevance": 0.523476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Healthcare"
+    },
+    {
+      "text": "Patient",
+      "relevance": 0.437927,
+      "dbpedia_resource": "http://dbpedia.org/resource/Patient"
+    },
+    {
+      "text": "Clinical officer",
+      "relevance": 0.411568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Clinical_officer"
+    },
+    {
+      "text": "Medicine",
+      "relevance": 0.3636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+    },
+    {
+      "text": "Delhi",
+      "relevance": 0.360426,
+      "dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+    },
+    {
+      "text": "India",
+      "relevance": 0.312301,
+      "dbpedia_resource": "http://dbpedia.org/resource/India"
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ],
+  "analyzed_text": "       MoHFW | Home\n                        \t \t\t Home \n \t\t \t\tLatest Updates\n \t\t \t\tResources \t\t \t\tTravel Advisories\n \t\tBehavioural Health\n \t\tCitizens\n \t\tHospitals\n \t\tTraining Material\n \t\tStates / Departments / Ministries\n \t\tEmployees\n \t\tAwareness Material\n \t\tInspirational series on Healthcare Service Personnel\n \t\t\n \t\t\n \t\t \t\tAwareness\n \t\tFAQs\n \t\n \t \t \t      \t \t\t \t\t \t\t \t\t \t\tIndia \t\t \t\t \t\t\t \t\t\t हिन्दी  \t\t\t \n  1 year of  Govt 2020 Towards a Healthy India   \n \t\t\t One Year of MODI 2.0   \n \t\t\t\t \t\t\t\t \t\t\t\t Screen Reader Acess \n \t\t\t\t \t\t\t\t\t \t\t\t\t\t \t\t\t\t\t \t\t\t\t\t \t\t\t\t\t \t\t\t\t\t \t\t\t\t\t\t\n \t\t\t\t\t\t\n \t\t\t\t\t\tPIB\n \t\t\t\t\t\t\n \t\t\t\t\t\t\n \t\t\t\t\t\n \t\t\t\t\n \t\t\t\t \t\t\t\t\tA+ \t\t\t\t\tA \t\t\t\t\tA- \t\t\t\t\n \t\t\t\t \t\t\t\t\t \t\t\t\t\tA \t\t\t\t\tA \t\t\t\t\t\n \t\t\t\t\n \t\t\t\t \t\t\t\t\tMain Site \t\t\t\t\n \t\t\t\n \t\t\n \t\t\n \t\n \t\n \n  \t \t\t \t\t \t\t\t \t\t\t \t\t\t\t \t\t\t\t \t\t\t\tMinistry of Health \n and Family Welfare\n \t\t\t\tGovernment of India \t\t\t\t\n \t\t\t \t\t\t \t\t\t\t  \t\t\t\t \t\t\t\t \t\t\t\t\t Home \n \t\t\t\t\t \t\t\t\t\tLatest Updates\n \t\t\t\t\t \t\t\t\t\tResources \t\t\t\t\t \t\t\t\t\tTravel Advisories\n \t\t\t\t\t\tBehavioural Health\n \t\t\t\t\tCitizens\n \t\t\t\t\tHospitals\n \t\t\t\t\tTraining Material\n \t\t\t\t\tStates / Departments / Ministries\n \t\t\t\t\tEmployees\n \t\t\t\t\tAwareness Material\n \t\t\t\t\tInspirational series on Healthcare Service Personnel\n \t\t\t\t\t\n \t\t\t\t\t\n \t\t\t\t\t \t\t\t\t\tAwareness\n \t\t\t\t\tFAQs\n \t\t\t\t\t                                                                    Search:                                                                      ↓                                   ↑                                 \n \t\t\t\t\n \t\t\t\t \t\t\t\t\t\n \t\t\t\t \t\t\t\n \t\t\t\n \t\t\n \t\t\n \t\n \n    \t \t\t \t\t\t \t\t\t \t\t\t\tHelpline Number :+91-11-23978046 \t\t\t\n \t\t\t \t\t\t\tToll Free : 1075 \t\t\t\n \t\t\t \t\t\t\tHelpline Email ID : ncov2019@gov.in  \t\t\t\n \t\t\t \t\t\t\tCovid-19 facilities in States & Union Territories \t\t\t\n \t\t\t \t\t\t\tArogya Setu  App    \t\t\t\n \t\t\t\n \t\t\n \t\n \n        \t \t \t \tCOVID-19 INDIA as on : 05 January 2021, 08:00 IST (GMT+5:30)\n\n \t\t(↑↓ Status change since yesterday)\n\n \t\t \t \t\t \t\tActive   \t\t231036     (12917) \t\t\t\t \t\tActive  \t\t \t \t\t231036\n(12917) \t \t\t\n  \t\t \t\tDischarged   \t\t9975958     (29091) \t\tDischarged  \t\t \t \t\t9975958\n(29091)  \t\t\n\t\t\t\t\t\t\t\t \t\t \t\tDeaths   \t\t149850        (201) \t\tDeaths  \t\t \t \t\t149850\n(201)  \t\t\t\t \t\t\n \t\t\n\n \t\t          \t\t \t\t \t\t \t\t\n\n\n  \t\n \t \t\n \t\n     \t \t\t \t\t \t\t\t \t\t\t \t\t\t\tTotal number of tests done during the previous day 8,96,236 \t\t\t\n \t\t\t\n \t\t\t \t\t\t \t\t\t \t\t\t\tFor any technical enquiry with respect to COVID-19, you may kindly email on technicalquery.covid19@gov.in Aarogya Setu IVRS  1921 \t\t\t\n \t\t\t\n \t\t\n \t\n \n       \t \t \t\t \t\tLatest Updates\n \t\t\n \t\t \t\t\t \t\t\t04.01.2021 \t\t\tAudio visual on Dr Guleria, Director, AIIMS sharing FAQs on COVID 19 vaccine rollout  Episode 1/3   Episode 2/3    Episode 3/3   \n \t\t\t\n \t\t\n \t\t \t\t\t \t\t\t01.01.2021 \t\t\t SOP for the new variant of SARS-CoV-2 in the context of regulated resumption of limited flights originating from United Kingdom (UK) to India from 8th January 2021   \n \t\t\t\n \t\t\n \t\t \t\t\t \t\t\t30.12.2020 \t\t\t  COVID-19 Vaccine Communication Strategy  \n \t\t\t\n \t\t\n \t\t \t\t\t \t\t\t28.12.2020 \t\t\t  COVID-19 vaccines operational guidelines      \n \t\t\t\n \t\t\n \t\t \t\t\t \t\t\t28.12.2020 \t\t\t  Guidelines on Safe Ophthalmology Practices in Covid-19 Scenario      \n \t\t\t\n \t\t\n \t\t \t\t\t \t\t\t27.12.2020 \t\t\t  Document for Genomic sequencing in India       \n \t\t\t\n \t\t\n \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\t \t\n \n       COVID-19 Statewise Status (Click to expand)\n \t\t COVID-19 INDIA as on : 05 January 2021, 08:00 IST (GMT+5:30)\t[↑↓ Status change since yesterday] \n   \t \tS. No. \tName of State / UT \tActive Cases* \t \tCured/Discharged/Migrated* \tDeaths** \t\n \tTotalChange since yesterday Change since\n yesterday \tCumulativeChange since yesterday \tCumulativeChange since yesterday\n  \t  \t \t  \n \n \n \n \n       Resources\n \n \n        Travel Advisories\n Behavioural Health : Psycho-Social toll free helpline-08046110007\n Citizens\n Hospitals\n Training Material\n States / Departments / Ministries\n Employees\n Awareness Material\n Inspirational series on Healthcare Service Personnel\n \n    \t \t \t01.01.2021  SOP for the new variant of SARS-CoV-2 in the context of regulated resumption of limited flights originating from United Kingdom (UK) to India from 8th January 2021\n \t22.12.2020   SOP for Surveillance and response for the new SARS Cov-2 variant \n \t05.11.2020   Guidelines for international arrivals\n \t02.08.2020  Revised guidelines for International Arrivals\n \t24.05.2020 Guidelines for international arrivals\n \t24.05.2020 Guidelines for domestic travel (air/train/inter-state bus travel)\n \t      \t\t20.03.2020 Instructions to all major and minor ports for dealing with(COVID-19)\n \t\t19.03.2020 Additional Travel Advisory \n \t\t18.03.2020 Standard Operating Procedure for Passenger Movement post Disembarkation \n \t\t17.03.2020 Additional Travel Advisory\n \t\t16.03.2020 Additional Travel Advisory \n \t\t14.03.2020  Restrictions on International passenger traffic through Land Check Posts \n \t\t13.03.2020 Restrictions on International passenger traffic through land check posts-COVID 19 \n \t\t11.03.2020 Consolidated Travel Advisory - 11 March 2020\n \t\t11.03.2020 Visa restrictions issued by Bureau of Immigration (BOI) after meeting of GoM on COVID19 - 11 March 2020 \n \t\t11.03.2020 Decisions- High level Group of Ministers meeting to review current status and actions for prevention and management of COVID-19 \n \t\t10.03.2020 Standard Operating Procedure (SOP) for COVID-19 Management- International Cruise Ships at major Indian Ports\n \t\t10.03.2020 Additional Travel Advisory\n \t\t10.03.2020 Travel Advisory (Home Isolation)\n \t\t06.03.2020 Travel Advisory\n \t\t05.03.2020 Travel Advisory \n \t\t03.03.2020 Travel and Visa restrictions related to COVID-19 in respect of Bureau of Immigration \n \t\t02.03.2020 Travel Advisory\n \t\t26.02.2020 Travel Advisory \n \t\t05.02.2020 Travel Advisory \n \t\t25.01.2020 Travel Advisory \n \t\t17.01.2020 Travel Advisory \n \t\n                                              \t\n \n    \t \t \t01.11.2020 Guidelines on Managing Mental Illness in Hospital Settings during COVID-19 \n \t31.07.2020  A/V on \" Mental Health Matters..Let's Talk\"  \n \t28.07.2020  COVID-19 Pandemic and Tobacco Use in India  \n \t15.07.2020  Caring for Health Care Warriors – Mental Health Support During COVID-19 (Jointly prepared by Department of Health & Family Welfare, Government of Karnataka and National Institute of Mental Health and Neurosciences, Bengaluru) \n \t09.07.2020 Mental Health in the times of COVID-19 Pandemic - Guidance for General Medical and Specialised Mental Health Care Settings \n \t18.06.2020 Video on Addressing Psychosocial Concerns of Healthcare Workers  \n \t \t20.04.2020   Audio Visual on Addressing Stigma Related to COVID-19   \n \t15.04.2020  Audio Visual on How to Safely Quit Tobacco During Lockdown (Hindi)  \n \t13.04.2020  Video on Yoga for Stress Management (Hindi)  \n \t11.04.2020 Video on meditation for stress management (English)  \n \t10.04.2020 Audio Visual on \"How to Safely Stop Drinking During Lockdown  \n 10.04.2020 Audio Visual on \"Managing Mental Stress and Depression During Lockdown \n \t10.04.2020 Video on Addressing Social Stigma Associated with COVID-19 (Hindi) \n \t08.04.2020 Video on Addressing Social Stigma Associated with COVID-19 \n \t08.04.2020 Addressing Social Stigma Associated with COVID-19 \n \t08.04.2020 Video on Yoga for stress management (English) \n  \t08.04.2020 Video on meditation for stress management (Hindi) \n \t05.04.2020 Lockdown to Knockdown COVID-19 \n \t05.04.2020 Lockdown to Knockdown COVID-19 - additional tips  \n \t \t \t01.04.2020 Taking care of mental health of children during COVID - 19  \n \t01.04.2020 Taking care of mental health of elderly during COVID -19 \n \t01.04.2020  Psychosocial issues  among  migrants  during  COVID-19\n \t \t31.03.2020  Video on Practical tips to take care of your Mental Health during the Stay In\n \t \t    31.03.2020  Minding our minds during the COVID-19  \n \t\t28.03.2020 Various Health Experts on how to manage Mental health & Well Being during COVID-19 outbreak \n \t\t27.03.2020 Dr. Shekhar P. Seshadri on 'Connecting with little ones during the COVID19 Lockdown- English \n \t\t27.03.2020 Dr. Shekhar P. Seshadri on 'Connecting with little ones during the COVID19 Lockdown- Hindi\n \t\n                                              \t\n \n\t \t    \t \t \t \t30.11.2020   SOP on preventive measures in markets to contain spread of COVID-19  \n \t08.10.2020  SOP on preventive measures to be followed in Entertainment Parks and similar places to contain spread of COVID-19 \n \t06.10.2020  Standard Operating Procedures on preventive measures to contain spread of COVID-19 during festivities  \n \t13.09.2020  Post COVID management protocol    \n \t10.09.2020  Revised SOP on preventive measures to be followed while conducting examinations to contain spread of COVID-19   \n \t08.09.2020  SOP for partial reopening of Schools for students of 9th to 12th classes on a voluntary basis, for taking guidance from their teachers     \n 08.09.2020  SOP on preventive measures to contain spread of COVID-19 in skill or entrepreneurship training institutions, higher educational institutions   \n \t02.09.2020 SOP on preventive measures to be followed while conducting examinations to contain spread of COVID-19 \n \t03.08.2020  Guidelines on Preventive Measures to Contain Spread of COVID-19 in Yoga Institutes & Gymnasiums  \n \t28.07.2020  COVID-19 Pandemic and Tobacco Use in India  \n \t17.07.2020  Advisory for Gated Residential Complexes with regards to COVID-19 \n \t17.07.2020  Guidelines for Gated Residential Complexes Desirous of Setting Up Small Covid Care Facility by Resident Welfare Associations / Residential Societies / Non-Governmental Organizations (NGOs) \n \t13.07.2020 Fixation of rate for rt PCR Test for COVID-19 in respect of Central Services (Medical Attendance) beneficiaries\n \t02.07.2020 Revised guidelines for Home Isolation of very mild/pre-symptomatic/asymptomatic COVID-19 cases  \n \t04.06.2020 SOP on preventive measures to contain spread of COVID-19 in offices \n \t04.06.2020 SOP on preventive measures to contain spread of COVID-19 in religious places/places of worship \n \t04.06.2020 SOP on preventive measures in Restaurants to contain spread of COVID-19\n \t04.06.2020 SOP on preventive measures in shopping malls to contain spread of COVID-19 \n \t04.06.2020 SOP on preventive measures in Hotels and Other Hospitality Units to contain spread of COVID-19 \n \t18.05.2020  Guidelines on preventive measures to contain spread of COVID-19 in workplace settings \n \t18.05.2020  Revised Strategy for COVlD-19 testing in lndia\n \t10.05.2020Revised guidelines for Home Isolation of very mild/pre-symptomatic COVID-19 cases [Revised and reissued on 02.07.2020]  \n \t08.05.2020 Revised discharge policy for COVID-19  \n \t07.05.2020 Additional guidelines for quarantine of returnees from abroad / contacts / isolation of suspect or confirmed cases in private facilities \n \t18.04.2020    Advisory against spraying of disinfectant on people for COVID-19 management  \n \t18.04.2020   EoI cum Bid Document for Procurement of Medical Oxygen Cylinder on urgent basis during COVID 19 situation\t\n \t \t07.04.2020 Revised Guidelines for Dialysis of COVID – 19 patients   \t\n \t07.04.2020 Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19 - FAQs   \t\n \t07.04.2020 Ministry of AYUSH advise on immunity boosting measures for self care during COVID 19 crisis  \t\n \t05.04.2020 Guidelines for Handling, Treatment and Disposal of Waste Generated during Treatment/Diagnosis/ Quarantine of COVID-19 Patients  \t\n \t05.04.2020 Guidelines for Quarantine facilities COVID-19 \t\n \t03.04.2020 Advisory & Manual on use of Homemade Protective Cover for Face & Mouth \t\n \t03.04.2020 DO Letter of Secretary, Ministry of Human Resource Development for  Arogya Setu App, and Light Candle at 09:00 PM on 5 April 2020 for 9 Minute. \t\n \t \t\t30.03.2020 Order issued by the Government of NCT of Delhi Relating to Landlords, House Owners dated 24 March 2020 \n \t\t30.03.2020 Order issued by the Government of NCT of Delhi  Relating to SOPs during Lock Down dated 24 March 2020 \n \t\t29.03.2020 Health Advisory for Elderly Population of India during COVID-19 \n \t\t29.03.2020 Guidelines on disinfection of common public places including offices \n \t\t27.03.2020 Office Memorandum-CGHS-Reimbursement of OPD  Medicines Special Sanction in view of COVID-19\n \t\t27.03.2020 Office Order-CGHS-Guidelines in view of the Corona Virus (COVID-19) Infection-issue of medicines\n \t\t27.03.2020 Office Order-CGHS-Guidelines in View of COVID-19\n \t\t26.03.2020 Gazette Notification - Hydroxychloroquine  now a schedule H1 drug, can be sold on prescription only\n \t\t26.03.2020 Press Note on Pradhan Mantri Garib Kalyan Yojna package from Ministry of Finance\n \t\t16.03.2020  Advisory - Social Distancing\n \t\t15.03.2020 Guidelines on Dead Body Management\n \t\t11.03.2020 Guidelines for home quarantine\n \t\t11.03.2020 Guidelines on use of masks by public\n \t\t05.03.2020  Advisory - Mass Gatherings\n \t\n                                         \t\n \n     \t \t \t28.12.2020   Guidelines on Safe Ophthalmology Practices in Covid-19 Scenario\n \t13.10.2020  Guidelines for management of co-infection of COVID-19 with other seasonal epidemic prone diseases \n \t13.09.2020  Post COVID management protocol    \n \t04.09.2020  Advisory on Strategy for COVID-19 Testing in India  \n \t01.09.2020  FAQs on COVID-19 from AIIMS e-ICUs    \n \t26.08.2020  Guidance note on bi-directional TB-COVID screening  \n \t26.08.2020  Clinical Guidance on Diabetes Management at COVID-19 Patient Management Facility  \n \t19.08.2020 Guidelines for eye care facilities in the COVID-19 scenario \n \t \t07.08.2020  Extension of Pradhan Mantri Garib Kalyan Package : Insurance Health Workers fighting COVID-19 for a further period of 90 days beyond the original period  \n \t09.07.2020 Mental Health in the times of COVID-19 Pandemic - Guidance for General Medical and Specialised Mental Health Care Settings \n \t03.07.2020 Updated Clinical Management Protocol for COVID-19  \n \t02.07.2020 Revised guidelines for Home Isolation of very mild/pre-symptomatic/asymptomatic COVID-19 cases  \n \t29.06.2020 Second Interim National Guidance to Blood Transfusion Services in India in light of Covid-19 pandemic, 25th June 2020  \n \t27.06.2020 Clinical Management Protocol for COVID-19 [Updated on 03.07.2020] \n \t18.06.2020 Updated Advisory for managing Health care workers working in COVID and Non-COVID areas of the hospital \n \t18.06.2020 Video on Addressing Psychosocial Concerns of Healthcare Workers  \n \t13.06.2020Clinical Management Protocol for COVID-19 [Revised and reissued on 27.06.2020] \n  \t03.06.2020 Guidelines for safe ENT practice in COVID-19 \n \t27.05.2020 Advisory on re-processing and re-use of eye protection - Goggles \n \t27.05.2020 Guidance note on Essential RMNCAH+N Services during and post COVID \n \t22.05.2020 Revised advisory on the use of Hydroxychloroquine (HCQ) as prophylaxis for COVID-19 infection\n \t21.05.2020 Guidance note for Immunization services during and post COVID outbreak \n \t20.05.2020 \"List of manufacturers of PPE coveralls who have been approved by accredited testing facilities is available on the Ministry of Textiles website at the following URL \" https://texmin.nic.in/covid/certificates.php \n \t19.05.2020  Guidelines for Dental Professionals in Covid-19 situation \n \t18.05.2020  Revised Strategy for COVlD-19 testing in lndia\n \t15.05.2020 Advisory for managing Health care workers working in COVID and Non-COVID areas of the hospital [Revised and reissued on 18.06.2020]   \n  \t15.05.2020 Updated Additional guidelines on rational use of Personal Protective Equipment (setting approach for Health functionaries working in non-COVID areas)   \n \t14.05.2020 Guidelines for RT-PCR based Pooled Sampling   \n \t11.05.2020 District level Facility based surveillance for COVID-19   \n \t10.05.2020 Updated Frequently Asked Questions (FAQs) on Revised Discharge Policy  \n \t08.05.2020 Updated Revised discharge policy for COVID-19  \n \t01.05.2020Additional guidelines on rational use of Personal Protective Equipment (setting approach for Health functionaries working in non-COVID areas) [Reissued on 15th May 2020] \n \t20.04.2020   Guidelines to be followed on detection of suspect or confirmed COVID-19 case in a non-COVID Health Facility  \n \t18.04.2020    Advisory against spraying of disinfectant on people for COVID-19 management  \n \t18.04.2020   Modification in Medicine List in Telemedicine Practice Guidelines  \n \t17.04.2020  Guidelines issued by ICMR for Rapid antibody test' in Hotspot Area' \n \t15.04.2020  Advisory for personal use of N95 masks issued to all healthcare workers by AIIMS, New Delhi Hindi \n \t15.04.2020  Advisory for personal use of N95 masks issued to all healthcare workers by AIIMS, New Delhi English \n \t14.04.2020  Advisory on feasibility of using pooled samples for molecular testing of COVID-19 by ICMR \n \t11.04.2020  Video for Insurance coverage for our Health workers - Caring for those who are taking care of the nation\n 11.04.2020 Insurance coverage for our Health workers - Caring for those who are taking care of the nation (GIF) \n \t09.04.2020 COVID-19 & Pregnancy & Labour Management \n \t09.04.2020 Advisory for Voluntary Blood Donation during COVID- 19 scenario \n \t08.04.2020 Video on use of PPE in different areas of the hospital \n \t \t07.04.2020 Revised Guidelines for Dialysis of COVID – 19 patients \n \t07.04.2020 Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19 - FAQs   \t\n \t07.04.2020 Guidance document on appropriate management of suspect/confirmed cases of COVID-19 - Types of Covid-19 dedicated facilities   \t\n \t \t05.04.2020 Guidelines for Handling, Treatment and Disposal of Waste Generated during Treatment/Diagnosis/ Quarantine of COVID-19 Patients  \t\n \t05.04.2020 Guidelines for Quarantine facilities COVID-19 \t\n \t05-04-2020 \tAdvisory & Strategy for Use of Rapid Antibody Based Blood Test  \t\n \t \t31-03-2020 \t Revised National Clinical Management Guidelines for COVID-19 \t\n \t31-03-2020 \t Essential Technical Features for Ventilator for COVID-19 \t\n \t\t29-03-2020 \tStandard Operating Procedure (SOP) for transporting a suspect/confirmed case of COVID-19  \t\t\n \t\t27-03-2020 SOP for allocation of Residents/PG Students and Nursing Students as part of hospital management of COVID-19  \t\t\n \t\t27-03-2020 Office Memorandum-CGHS-Reimbursement of OPD  Medicines Special Sanction in view of COVID-19 \t\t\n \t\t27-03-2020 Office \tOrder-CGHS-Guidelines in view of the Corona Virus (COVID-19) Infection-issue of medicines \t\t\n \t\t27-03-2020 Office Order-CGHS-Guidelines in View of COVID-19 \t\t\n \t\t26-03-2020 Gazette Notification - Hydroxychloroquine  now a schedule H1 drug, can be sold on prescription only\n \t\t26-03-2020 Webinar schedule of COVID-19 of AIIMS New Delhi \t\t\n \t\t26-03-2020 Doorstep Delivery of Drugs to Consumers \t\t\n \t\t25-03-2020 Telemedicine Practice Guidelines \t\t\n \t\t24-03-2020 Letter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 \n \t\t24-03-2020 \t\tGuidelines on rational use of Personal Protective Equipment    \t\t\n \t\t23-03-2020 Advisory on the use of Hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection [Revised guidelines issued on 22.05.2020]  \t\t\n \t\t22-03-2020 Notification of ICMR guidelines for COVID-19 testing in private laboratories in India  \t\t\n \t\t20-03-2020 Advisory for Hospitals and Medical Institutions \n \t\t17-03-2020 \t\tLatest Testing Guidelines of Indian Council of Medical Research (ICMR) \n \t\t17-03-2020 \t\tGuidelines for notifying COVID-19 affected persons by Private Institutions\n \t\t17-03-2020 \t\tDischarge policy for suspect or confirmed Novel Coronavirus (2019-nCoV) cases\n \t\t17-03-2020 \t\tUpdated Guidelines on Clinical Management of COVID-19 (Repealed on 31st March 2020)\n \t\t15-03-2020 SOP for Mock Drill on 22nd March 2020 for Hospital Preparedness \n \t\t15-03-2020 \t\tRevised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)\n \t\t15-03-2020 \t\tGuidelines on Dead Body Management\n \t\t09-03-2020 \t\tICMR strategy for COVID-19 testing in India\n \t\t25-01-2020 \t\tGuidelines for Infection Prevention and Control in Healthcare Facilities\n \t\t24-01-2020 \t\tGuidance for sample Collection, Packaging and Transportation for Novel Coronavirus\n\t\t\t\t\t\t\t\t\t\t \t\n                                         \t\n \n      \t \t \t30-12-2020 \t\t  COVID-19 Vaccine Communication Strategy  \n \t28-12-2020 \t\t  COVID-19 vaccines operational guidelines  \n \t27-12-2020 \t\t  Document for Genomic sequencing in India  \n \t21-05-2020 \t\tWebinar Series on Obstetric Care during COVID-19   \n \t22-04-2020 \t\tOnboarding of States / Union Territories' COVID-19 Warriors to iGoT (Integrated Government Online Training) courses on DIKSHA Platform on COVID-19 pandemic  \n \t19-04-2020 \t\t   Webinar on Mechanical Ventilation for physicians by AIIMS, New Delhi  \n \t16-04-2020 \t\t Webinar schedule for training of Physicians officers on COVID-19 and Mechanical Ventilation by AIIMS New Delhi \n \t13-04-2020 \t\t iGOT (Integrated Govt. Online Training) courses on DIKSHA platform on COVID-19 pandemic  \n \t11-04-2020 \t\tSecond COVID Webinar Series for Nurses by AIIMS New Delhi \n \t07-04-2020 \t\tWebinar on COVID-19 and Management of Pregnancy   \t\t\n \t07-04-2020 \t\tiGOT Training Modules for COVID-19 Management  \t\t\n \t07-04-2020 \t\tAyush master trainers Training by Ministry of Ayush  \t\t\n \t06-04-2020 \t\tUpdated List of Training Resources for COVID - 19 Management   \t\t\n \t02-04-2020 \t\tWebinar schedule for training of  Physicians officers on COVID-19 by AIIMS New Delhi    \t\t\n \t\t02-04-2020 \t\tRevised Webinar schedule for training of  Nursing officers on COVID-19 by AIIMS New Delhi   \t\t\n \t02-04-2020 \t\tVideo on Training for Ventilatory Support for COVID-19  \t\t\n \t02-04-2020 \t\tAdvisory for Human Resource Management of COVID-19   \t\t\n \t \t31-03-2020 \t\tTraining for Nursing Personnel   \t\t\n \t31-03-2020 \t\t Revised Webinar schedule of COVID-19 of AIIMS New Delhi  \t\t\n \t30-03-2020 \t\tTraining Resources  \t\t\n \t\t30-03-2020 \t\tWebinar series for Epidemiology, Infection Control, Clinical Management and Nursing of COVID-19 by AIIMS New Delhi  \t\t\n \t\t28-03-2020 \t\tWebinar schedule for Nursing officers training of COVID-19 in AIIMS New Delhi  \t\t\n \t\t\n \n \n \t \t    \t \t \t01.01.2021  SOP for the new variant of SARS-CoV-2 in the context of regulated resumption of limited flights originating from United Kingdom (UK) to India from 8th January 2021\n \t28.12.2020   Guidelines on Safe Ophthalmology Practices in Covid-19 Scenario\n \t27-12-2020 \t\t  Document for Genomic sequencing in India  \n \t22.12.2020   SOP for Surveillance and response for the new SARS Cov-2 variant \n \t30.11.2020   SOP on preventive measures in markets to contain spread of COVID-19  \n \t13.10.2020  Guidelines for management of co-infection of COVID-19 with other seasonal epidemic prone diseases \n \t09.10.2020  Environmental and Social Management Framework for India COVID-19 Emergency Response and Health Systems Preparedness Project (P173836)  \n \t08.10.2020  SOP on preventive measures to be followed in Entertainment Parks and similar places to contain spread of COVID-19 \n 08.10.2020  Reimbursement of OPD medicines to CS (MA) beneficiaries: Special Sanction in view of COVID-19 till 31 December 2020 \n \t06.10.2020  Standard Operating Procedures on preventive measures to contain spread of COVID-19 during festivities  \n \t13.09.2020  Post COVID management protocol    \n \t10.09.2020  Revised SOP on preventive measures to be followed while conducting examinations to contain spread of COVID-19   \n \t08.09.2020  SOP for partial reopening of Schools for students of 9th to 12th classes on a voluntary basis, for taking guidance from their teachers     \n 08.09.2020  SOP on preventive measures to contain spread of COVID-19 in skill or entrepreneurship training institutions, higher educational institutions   \n \t05.09.2020  Manual for Surveillance Teams for containment zones\n 05.09.2020  Containment and Surveillance Manual for Supervisors in containment zones  \n \t04.09.2020  Advisory on Strategy for COVID-19 Testing in India  \n \t03.09.2020  Reimbursement of OPD medicines to CS (MA) beneficiaries: Special Sanction in view of COVID-19   \n \t02.09.2020 SOP on preventive measures to be followed while conducting examinations to contain spread of COVID-19 \n \t01.09.2020  FAQs on COVID-19 from AIIMS e-ICUs    \n \t26.08.2020  Guidance note on bi-directional TB-COVID screening  \n 26.08.2020  Clinical Guidance on Diabetes Management at COVID-19 Patient Management Facility  \n  \t19.08.2020  Guidelines for eye care facilities in the COVID-19 scenario \n \t07.08.2020  Extension of Pradhan Mantri Garib Kalyan Package : Insurance Health Workers fighting COVID-19 for a further period of 90 days beyond the original period  \n \t03.08.2020  Guidelines on Preventive Measures to Contain Spread of COVID-19 in Yoga Institutes & Gymnasiums  \n \t02.08.2020  Revised guidelines for International Arrivals\n \t28.07.2020  COVID-19 Pandemic and Tobacco Use in India  \n \t17.07.2020  Advisory for Gated Residential Complexes with regards to COVID-19 \n \t17.07.2020  Guidelines for Gated Residential Complexes Desirous of Setting Up Small Covid Care Facility by Resident Welfare Associations / Residential Societies / Non-Governmental Organizations (NGOs) \n \t16.07.2020   Letter from ICMR to States and UTs for District wise login credentials for rapid antigen testing for COVID 19 \n \t03.07.2020 Updated Clinical Management Protocol for COVID-19  \n \t02.07.2020 Revised guidelines for Home Isolation of very mild/pre-symptomatic/asymptomatic COVID-19 cases  \n \t29.06.2020 Second Interim National Guidance to Blood Transfusion Services in India in light of Covid-19 pandemic, 25th June 2020  \n \t27.06.2020 Clinical Management Protocol for COVID-19 [Updated on 03.07.2020] \n \t18.06.2020 Updated Advisory for managing Health care workers working in COVID and Non-COVID areas of the hospital \n \t13.06.2020Clinical Management Protocol for COVID-19 [Revised and reissued on 27.06.2020] \n \t04.06.2020 SOP on preventive measures to contain spread of COVID-19 in offices \n \t04.06.2020 SOP on preventive measures to contain spread of COVID-19 in religious places/places of worship \n \t04.06.2020 SOP on preventive measures in Restaurants to contain spread of COVID-19\n \t04.06.2020 SOP on preventive measures in shopping malls to contain spread of COVID-19 \n \t04.06.2020 SOP on preventive measures in Hotels and Other Hospitality Units to contain spread of COVID-19 \n \t27.05.2020 Advisory on re-processing and re-use of eye protection - Goggles \n \t27.05.2020 Guidance note on Essential RMNCAH+N Services during and post COVID \n \t24.05.2020 Guidelines for international arrivals\n \t24.05.2020 Guidelines for domestic travel (air/train/inter-state bus travel)\n \t22.05.2020 Revised advisory on the use of Hydroxychloroquine (HCQ) as prophylaxis for COVID-19 infection\n \t21.05.2020 Guidance note for Immunization services during and post COVID outbreak \n \t20.05.2020 \"List of manufacturers of PPE coveralls who have been approved by accredited testing facilities is available on the Ministry of Textiles website at the following URL \" https://texmin.nic.in/covid/certificates.php \n \t18.05.2020  Guidelines on preventive measures to contain spread of COVID-19 in workplace settings \n \t18.05.2020  Revised Strategy for COVlD-19 testing in lndia\n \t16.05.2020 Updated Cluster Containment Plan for COVID-19 \t\n \t16.05.2020  Updated Containment Plan for Large Outbreaks of COVID-19 \n \t16.05.2020 Preparedness and response to COVID-19 in Urban Settlements   \n \t \t15.05.2020 Advisory for managing Health care workers working in COVID and Non-COVID areas of the hospital [Revised and reissued on 18.06.2020]   \n \t15.05.2020 Updated Additional guidelines on rational use of Personal Protective Equipment (setting approach for Health functionaries working in non-COVID areas)   \n \t14.05.2020 Guidelines for RT-PCR based Pooled Sampling   \n \t11.05.2020 District level Facility based surveillance for COVID-19   \n \t10.05.2020 Updated  Frequently Asked Questions (FAQs) on Revised Discharge Policy  \n \t10.05.2020Revised guidelines for Home Isolation of very mild/pre-symptomatic COVID-19 cases [Revised and reissued on 02.07.2020]  \n \t07.05.2020 Additional guidelines for quarantine of returnees from abroad / contacts / isolation of suspect or confirmed cases in private facilities \n \t06.05.2020 Railway Coaches as COVID Care Centre: Guidance document on appropriate management of suspect-confirmed cases of COVID-l9  \n \t01.05.2020Additional guidelines on rational use of Personal Protective Equipment (setting approach for Health functionaries working in non-COVID areas) [Reissued on 15th May 2020] \n \t27-04-2020 \t\tGuidelines for Home Isolation of very mild/pre-symptomatic COVID-19 cases     \n \t22-04-2020 \t\tOnboarding of States / Union Territories' COVID-19 Warriors to iGoT (Integrated Government Online Training) courses on DIKSHA Platform on COVID-19 pandemic  \n \t22.04.2020    Measures Undertaken To Ensure Safety Of Health Workers Drafted For COVID-19 Services  \n \t \t\t20.04.2020   Hon'ble HFM Letter to States/UT's regarding Blood & Blood Disorders  \n \t20.04.2020   Guidelines to be followed on detection of suspect or confirmed COVID-19 case in a non-COVID Health Facility  \n \t20.04.2020    Directions from Ministry of Home Affairs to State for promotion of Voluntary Blood Donation   \n \t18.04.2020    Advisory against spraying of disinfectant on people for COVID-19 management  \n \t17.04.2020  Guidelines issued by ICMR for Rapid antibody test' in Hotspot Area' \n \t17.04.2020 Updated Containment Plan for Large Outbreaks of COVID-19 [Reissued on 16th May 2020] \n \t14.04.2020  Advisory on feasibility of using pooled samples for molecular testing of COVID-19 by ICMR \n \t14.04.2020  Advisory  for  effective management & ensuring  safe  drinking  water  during  lock  down  due to COVID-19 \n \t14.04.2020  Guidance note for enabling Delivery of Essential Health Services during the COVID 19 Outbreak  \n \t \t11.04.2020 Letter from Ministry of Home Affairs to Administrators, DGPs of all States/UTs and CP Delhi regarding Security  to all Doctors , Staff of Hospitals in respect of COVID-19 \n \t \t11.04.2020 Orders of Ministry of Home Affairs  to  Ministries/States/UTs for exemption to Fishing \n \t\t09.04.2020 Advisory for Voluntary Blood Donation during COVID- 19 scenario \n \t08.04.2020 Release of funds to States/UTs under NHM for Emergency Response and Health System Preparedness Package for COVID-19   \t\n \t07.04.2020 Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19 - FAQs   \t\n \t07.04.2020 Guidance document on appropriate management of suspect/confirmed cases of COVID-19 - Types of Covid-19 dedicated facilities   \t\n \t07.04.2020 Ministry of AYUSH advise on immunity boosting measures for self care during COVID 19 crisis  \t\n \t05.04.2020 Advisory issued by Ministry of Rural Development to the State Rural Livelihoods Missions on actions to be taken to address the COVID 19 outbreak  \t\n \t05.04.2020 Guidelines for Handling, Treatment and Disposal of Waste Generated during Treatment/Diagnosis/ Quarantine of COVID-19 Patients  \t\n \t05.04.2020 Guidelines for Quarantine facilities COVID-19 \t\n \t05-04-2020 \tAdvisory & Strategy for Use of Rapid Antibody Based Blood Test  \t\n \t04.04.2020 Letter to States/UTs with Control Room Emergency contact numbers of All India Industrial Gases Manufacturer’s Association  \t\n \t04.04.2020 Letter to States/UTs and Heads of all the Associations of Doctors/Healthcare providers regarding 'Pradhan Mantri Garib Kalyan Package: Insurance Scheme with Forms  \t\n \t04.04.2020Containment Plan for Large Outbreaks of COVID-19 Updated \t\n \t03.04.2020 Request to States/UTs to provide support to ICMR Labs doing COVID-19 Testing \t\n \t \t03.04.2020 DO Letter of Secretary, Ministry of Human Resource Development for  Arogya Setu App, and Light Candle at 09:00 PM on 5 April 2020 for 9 Minute \t\n \t \t01-04-2020 \tLetter from Secretary Health to Chief Secretaries of all States/UTs in connection with directions of Hon'ble Supreme Court for migrant labourers  \n \t31-03-2020 \t DO Letter of Secretary, Department of Rural Development regarding utilizing services of DDU-GKY trained youth  \n \t31-03-2020 \t List of youth trained under DDU-GKY (Deen Dayal Upadhyaya Grameen Kaushal Yojna)  \n \t31-03-2020 \t Advisory for quarantine of migrant workers   \n \t \t31-03-2020 \t Preliminary Stakeholder Engagement Plan (SEP) – India COVID-19 Emergency Response and Health Systems Preparedness Project (P173836)\n \t31-03-2020 \t Environmental and Social Commitment Plan (ESCP) - India COVID-19 Emergency Response and Health Systems Preparedness Project (P173836)\n \t \t30.03.2020  \tD.O Letter from Home Secretary to all Secretaries of Government Of India  on movement of Goods dated 29.03.2020  \t\n \t \t29.03.2020  \tGuidelines on disinfection of common public places including offices \t\n \t \t29.03.2020  \tStandard Operating Procedure (SOP) for transporting a suspect/confirmed case of COVID-19  \t\n \t \t28.03.2020  \tLetter from National Pharmaceutical Pricing Authority (NPPA) to states for Ensuring availability and distribution of Masks, Gloves and Sanitizers \t\n \t \t26.03.2020  \tGazette Notification - Hydroxychloroquine  now a schedule H1 drug, can be sold on prescription only \t\n \t \t26.03.2020 \tD.O. Letter  from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 26.03.2020    \t\n \t \t24.03.2020  \tD.O. Letter 3 from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020   \t\n \t \t24.03.2020  \tDO Letter of Home Secretary regarding urgent need to take stringent actions to contain the spread of COVID-19. \t\n \t \t24.03.2020  \tAnnexure to Ministry of Home Affairs Order No. 40-3/2020-D Dated 24-3-2020. \t\n \t \t24.03.2020 D.O. Letter 2 from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020   \t\n \t \t24.03.2020  \tD.O. Letter from Secretary Shipping to States for smooth carrying of goods to & from ports \t\n \t \t24.03.2020 Guidelines on rational use of Personal Protective Equipment \t\n \t \t24.03.2020  \tModel Micro-plan for containment of local transmission of COVID-19 \n \t \t24.03.2020  \tD.O. Letter from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020  \t\n \t \t24.03.2020  \tLetter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 \t\n \t \t24.03.2020  \tD.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020\n \t \t23.03.2020  \tD.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 23.03.2020 \t\n \t \t23.03.2020  \tLetter from Ministry of Home Affairs - Restrictions on international passenger traffic through Authorized Immigration Check Posts in view of the COVID-19 \t\n \t \t23.03.2020  \t Office Order from Ministry of Shipping - State Government/Union Territories have issued prohibitory orders, Imposing restrictions on non-essential services in view of the COVID-19\n \t \t22.03.2020  \tD.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 22.03.2020 \t\n \t \t21.03.2020  \tRevised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR) \t\n\t \t \t20.03.2020  \tInstructions to all major and minor ports for dealing with(COVID-19) \t\n \t \t20.03.2020  \tLetter from Secretary, Dept of Higher Education/School Education regarding Digital/e-Learning \t\n\t\t \t \t20.03.2020  \tSOP for Mock Drill on 22nd March 2020 for Hospital Preparedness \t\n\t \t \t19.03.2020  \tAdvisory from Department of Sports for Sports Organizations \t\n\t \t19.03.2020  \tDOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes \t\n\t \t \t18.03.2020  \tLetter from Department of Food & Public Distribution regarding Hand Sanitizer Production and Availability  \t\n\t \t \t18.03.2020  \tDO Letter from Secretary, DoHFW to State Chief Secretaries regarding Social Distancing Measures\n\t \t \t18.03.2020  \tMonitoring of the quality standards of hand Sanitizers \t\n\t \t \t18.03.2020  \tDirectives from MoHRD for all Educational Institutions and Examination Boards regarding precautions to be taken in light of COVID-19\n\t\t\t\t18.03.2020 DoPT OM - Preventive measures to be taken to contain the spread of Novel Coronavirus (COVID-19) \t\n \t \t17-03-2020 \tGuidelines for notifying COVID-19 affected persons by Private Institutions \t\n \t \t17-03-2020 \tLatest Testing Guidelines of Indian Council of Medical Research (ICMR) \n \t \t16-03-2020 \tAdvisory - Social Distancing  \t\n \t \t15-03-2020 \tGuidelines on Dead Body Management \t\n \t \t14-03-2020 \tNorms of assistance from State Disaster Response Fund (SDRF) in wake of COVID-19 outbreak \t\n \t13-03-2020 \tNational Pharmaceutical Pricing Authority (NPPA) Order regarding Masks, Hand Sanitizers and Gloves  \t\n \t \t13-03-2020 \tGazette Notification - Essential Commodities Order, 2020 - with regards to Masks and Hand Sanitizers (770KB)   \t\n \t11-03-2020 \tInvoking powers under Disaster Management Act 2005  \t\n \t11-03-2020 \tDecisions- High level Group of Ministers meeting to review current status and actions for prevention and management of COVID-19  \t\n \t10-03-2020 \tStandard Operating Procedure (SOP) for COVID-19 Management- International Cruise Ships at major Indian Ports \t\n \t09-03-2020 \tICMR strategy for COVID-19 testing in India \t\n \t09-03-2020 \tCabinet Secretary DO letter dated 8th March, 2020 to all Government of India Ministries on COVID-19 management \t\n \t06-03-2020 \tAdvisory for Exemption to mark biometric attendance in AEBAS \t\n\t \t05-03-2020 \t Advisory - Mass Gatherings \t\n \t03-03-2020 \tKerala COVID 19 updates and advisory  \t\n \t03-03-2020 \tAdvisory for Hospitals and Medical Institutions  \t\n \t02.03.2020Cluster Containment Plan for COVID-19 [Reissued on 16th May 2020]\t\n \t25-01-2020 \tGuidance on Surveillance for human infection with 2019-nCoV \t\n \t24-01-2020 \tGuidance for sample Collection, Packaging and Transportation for Novel Coronavirus \t\n \t\n                                         \t\n \n      \t \t04.06.2020 Reimbursement of OPD medicines to CS (MA) beneficiaries: Special Sanction in view of COVID - 19 \n \t18.05.2020  Guidelines on preventive measures to contain spread of COVID-19 in workplace settings \n \t05-05-2020 \tReimbursement of OPD medicines to CS (MA) beneficiaries: Special Sanction in view of COVID - 19    \n \t19-04-2020 \t   Preventive Measures to be taken by officals of Ministry of Health and Family Welfare  \n \t19-04-2020 \t  Consolidated Revised Guidelines on the measures to be taken by Ministries/Department of Government of India, State/UT Governments for containment of Covid-19   \n \t03-04-2020 \tExtension of Validity of CGHS Card in view of the Corona virus (COVID_19) infection  \n \t01-04-2020 \tReimbursement of OPD medicines to CS(MA) beneficiaries: Special sanction in view of COVID-19  \n \t31-03-2020 \t Advisory for quarantine of migrant workers   \n \t\t29-03-2020 Guidelines on disinfection of common public places including offices\n \t\t19-03-2020 DOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes\n \t\t18-03-2020 Directives from MoHRD for all Educational Institutions and Examination Boards regarding precautions to be taken in light of COVID-19\n \t\t18.03.2020 DoPT OM - Preventive measures to be taken to contain the spread of Novel Coronavirus (COVID-19)\n \t\t18.03.2020 DO Letter from Secretary, DoHFW to State Chief Secretaries regarding Social Distancing Measures\n \t\t06.03.2020 Advisory for Exemption to mark biometric attendance in AEBAS\n \t\n                                         \n \n       04.01.2021Audio visual on Dr Guleria, Director, AIIMS sharing FAQs on COVID 19 vaccine rollout  Episode 1/3   Episode 2/3    Episode 3/3  \n 17.12.2020FAQs on COVID 19 Vaccine for Healthcare providers and Frontline workers   English     Hindi  \n  17.12.2020FAQs on COVID 19 Vaccine for General Public   English    Hindi  \n   12.10.2020  Encouraging youth to advocate against stigma and discrimination during COVID-19 - English  \n 12.10.2020  Encouraging youth to advocate against stigma and discrimination during COVID-19 - Hindi  \n  15.07.2020  Patients, their families and health care providers stand together to counter stigma and discrimination associated with COVID19   \n 15.07.2020 A/V on 15 COVID Appropriate Behaviours English \n 15.07.2020 A/V on 15 COVID Appropriate Behaviours Hindi  \n 03.07.2020 Hindi Video on supporting COVID recovered patients \n 03.07.2020 Hindi Video on COVID Appropriate Behaviours during COVID-19 \n 03.07.2020 Hindi Video on extending support towards persons returning home during COVID-19 \n 03.07.2020 Hindi Video on showing respect to healthcare workers \n 03.07.2020 Hindi Video on showing respect to sanitation workers \n 03.07.2020 Video on health care workers’ helping us fight the battle against COVID-19 \n 03.07.2020 Heartfelt thanks to Corona Warriors \n 03.07.2020 Video on showing support for persons in quarantine / isolation \n 02.07.2020 A/V on thanking Corona Warriors  \n 02.07.2020 Video on Home Isolation for very mild/ pre-symptomatic COVID-19 patients  \n 22.06.2020 A/V on COVID Appropriate Behaviours   \t\t\t (1/5), \t\t\t (2/5), \t\t\t (3/5), \t\t\t(4/5) &  \t\t\t (5/5)\n \n 18.06.2020An Illustrative Guide on COVID Appropriate Behaviours  English,  Hindi  \n 18.06.2020 A/V on \"Quit using spit as it can increase the risk of spread of COVID-19\" (English)   \n 18.06.2020 A/V on \"Quit using spit as it can increase the risk of spread of COVID-19\" (Hindi)  \n 16.06.2020 Guide to address stigma associated with COVID-19  English  \n 16.06.2020 Guide to address stigma associated with COVID-19 Hindi  \n 12.06.2020 Guidelines for Hotels on preventive measures to contain spread of COVID-19 \n  12.06.2020 Guidelines for Offices on preventive measures to contain spread of COVID-19  \n 12.06.2020 Guidelines for Religious Places on preventive measures to contain spread of COVID-19 \n 12.06.2020 Guidelines for Restaurants on preventive measures to contain spread of COVID-19  \n 12.06.2020 Guidelines for Shopping Malls on preventive measures to contain spread of COVID-19 \n 08.06.2020 A/V on the need to address Stigma and Discrimination associated with COVID-19  \n 08.06.2020 A/V on COVID Appropriate Behaviours (English)  \n 08.06.2020 A/V on COVID Appropriate Behaviours (Hindi)  \n 28.05.2020 RAP video to advocate no spitting\n 27.05.2020 Video on Caring and Sharing, the new normal\n 16.05.2020 NO Spitting in public places  (Video) \n 15.05.2020  Guidelines for Home Isolation of very mild / pre-symptomatic COVID-19 cases (Video) \n 05.05.2020Thematic Bank of  COVID19 Creatives \n  \t\t1.   What is Corona Virus and how does it transmits  \n \t\t2.   Handwashing  \n \t\t3.   COVID Appropriate Behaviours Pack 1.0 \n  \t\t4.   COVID Appropriate Behaviours Pack 2.0 \n \t\t5.    Home Quarantine  \n \t\t6.    Myth Busters  \n \t\t7.    All India National Helpline 1075  \n \t\t8.    No Spitting  \n \t\t9.    Stigma and Discrimination  \n \t\t10.    Thank you COVID Warriors  \n \n   29.04.2020 Awareness Material for front line workers of COVID-19 - Hindi \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Punjabi \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Bengali \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Marathi \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Telgu (Telangana) \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Telgu (Andra Pradesh) \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Malayalam \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Kannada \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Tripura \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Tamil \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Gujrati \n 29.04.2020 Awareness Material for front line workers of COVID-19 - Odia \n    20.04.2020   Audio Visual on Addressing Stigma Related to COVID-19   \n 18.04.2020  Information for general public on use of necessary medicines for COVID19 (Poster)  \n 18.04.2020  Information for general public on use of necessary medicines for COVID19 - Audio Visual  \n  11.04.2020 Video on use of reusable face cover (English) - Part 1 \n 11.04.2020 Video on use of reusable face cover (English) - Part 2 \n 08.04.2020 Video on Salutations to Coronavirus Warriors - I \n 08.04.2020 Video on Salutations to Coronavirus Warriors - II \n 08.04.2020 Know how to use your own Homemade Reusable Face Cover \n 07.04.2020 Know how to use your own Homemade Reusable Face Cover \n 04.04.2020 Video on Lockdown - Staying Active at Home \n  02.04.2020\tAarogyaSetu App for staying informed and alert  against COVID19. Government initiative to develop a digital Bridge to fight against COVID_19. Download Today! Play Store APP  \t\t\tIOS APP \n      31.03.2020  Handling Public Grievances pertaining to COVID-19 in M/o Health & Family Welfare\n      \t29.03.2020 Video from experts from AIIMS, New Delhi sharing basic steps on hand washing to fight against COVID-19 – English \n \t29.03.2020 Video from experts from AIIMS, New Delhi sharing basic steps on hand washing to fight against COVID-19 - Hindi \n \t29.03.2020 Video from experts from AIIMS Advising Stay Home Stay Safe – English \n \t29.03.2020 Video from experts from AIIMS Advising “Stay Home Stay Safe” – Hindi \n \t29.03.2020 Poster on Social distancing in a market place during COVID-19 English \n \t29.03.2020 Poster on Social distancing in a market place during COVID-19 Hindi \n \t28.03.2020COVID-19 Health Service Providers Toolkit: General Health Facilities\n \t \t\t1.   A letter from HFM to the Health Administrators  \n \t\t2.  Community leaflet  \n \t\t3.  What is Novel Coronavirus?\n \t\t4. Is your Healthcare facility ready to manage patients with COVID-19?  \n \t\t  5. How to use the handrub? \n \t\t  6. When and How to wear mask? \n \t\t  7. Guidelines on the use of materials \n \t\n  \t28.03.2020COVID-19 Health Service Providers Toolkit: Designated Hospitals\n \t \t\t1.   A letter from HFM to the Health Administrators  \n \t\t2.  Community leaflet  \n  \t\t3.  What is Novel Coronavirus?\n \t\t4. Is your Healthcare facility ready to manage patients with COVID-19?  \n \t\t  5. How to protect all health workers at designated hospital? \n \t\t  6. What are my moments of hand hygiene? \n \t\t  7. How to manage Suspected or confirmed COVID-19 patients at designated hospital? \n \t\t  8. Guidelines on the use of materials \n \t\n \t28.03.2020COVID-19 Frontline Worker Toolkit in Englsih\n \t \t\t1.  Facilitator Guide  \n \t\t2.  PPT with seven sessions including for Urban  \n  \t\t3.  A digital pocket book for front line workers\n \t\t4. Training Protocols and guidelines  \n \t\t  5. Training Plan template \n \t\n \t28.03.2020 When to get tested for COVID-19 English \n \t28.03.2020 When to get tested for COVID-19 Hindi \n \t25.03.2020 Role of Frontline Workers in Prevention and Management of CORONA VIRUS- English \n \t25.03.2020  Role of Frontline Workers in Prevention and Management of CORONA VIRUS - Hindi \n \t23.03.2020 Posters for Safety measures against COVID-19 - English \n \t23.03.2020  Posters for Safety measures against COVID-19 - Hindi \n \t22.03.2020 KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19 - Part 2\n \t19.03.2020 Posters for Indians traveling from abroad - English  \n \t19.03.2020 Posters for Indians traveling from abroad - Hindi \n \t \t 09.03.2020 KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19\n \t06.03.2020 Do's and Don't Poster in English \n \t06.03.2020 Do's and Don't Poster in Hindi \n \t06.03.2020 Watch all COVID-19 management videos here \n \t06.03.2020 TV and Radio Spots (English & Hindi) for COVID-19\n \t \n \n                                         \n  \t    12.05.2020 Poster for Felicitating our Nurses and Midwives on International Nurses day 2020 \n 12.05.2020 Felicitating our Nurses and Midwives on International Nurses day 2020 (Video) \n 22.04.2020 Musical tribute to Healthcare Service Personnel\n  22.04.2020 Doctors of AIIMS, New Delhi addressing the Stigma around COVID-19\n 21.04.2020 Thank you healthcare workers (Hindi)  \n 20.04.2020 Support to healthcare workers  \n 19.04.2020 Not to discriminate against service providers   \n 19.04.2020 Stigmatization against Covid Warriors (Hindi)   \n 18.04.2020 Gratitude towards health care providers   \n 17.04.2020 Gratitude towards health care providers - Hindi  \n 17.04.2020 Break the stigma  \n 16.04.2020 Break the stigma – Hindi  \n 16.04.2020 Break the Stigma (Do’s and Don’ts)  \n 16.04.2020 Break the Stigma (Do’s and Don’ts) Hindi \n 15.04.2020 Thank you healthcare workers \n  10.04.2020 Video on Addressing Social Stigma Associated with COVID-19 (Hindi)\n 08.04.2020 Video on Addressing Social Stigma Associated with COVID-19 Englsih\n  29.03.2020 Coronavirus doesn’t discriminate, why should we? \n 27.03.2020 Our fight is against COVID19, not each other! Together we will fight COVID19\n 21.03.2020 Musical tribute to our healthcare workers by AIIMS New Delhi\n  \n \n                                         \n\t\t\t\t\t\t\t\t \n \n \n \n \n                                                                                                                                                     Awareness\n                                                                      English\n                                     Hindi\n                                 \n                                            \n                                                                                                                                                                                                                                                                                                                                          "
+}

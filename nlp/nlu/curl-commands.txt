@@ -1,0 +1,90 @@
+-- basic command 
+curl -u "apikey":"LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "I am working for IBM at Bangalore",
+  "features": {
+    "entities": {
+	}
+  }
+}' \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/analyze?version=2018-09-21"
+
+--- analysing website contents ******************
+
+curl --user "apikey:LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/analyze?version=2018-09-21" \
+--request POST \
+--header "Content-Type: application/json" \
+--data @parameters-5-url.json
+
+
+curl --user "apikey:LL-7VKaBWYpw1nECE_ZjbkszhnnJNlnzphE914K5iP_X" \
+"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/5432390f-b7f5-40a1-a103-ae550e518b6c/v1/analyze?version=2018-09-21" \
+--request POST \
+--header "Content-Type: application/json" \
+--data @parameters-5-url-xpath.json
+
+
+
+
+--sms analysis **************************
+
+Sample sms to be analysed- 
+"Valentines Day Offer, get Rs.10000 cashback + No Cost EMI on all models of iPad. Valid till Feb 14 at your nearest Imagine. https://goo.gl/hFJcfk"
+
+Without wks model
+
+curl -u "apikey":"to1ivMCCisdV2d6GXDOjwIygsHRDdlZdABrRxll9pQV6" \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "Valentines Day Offer, get Rs.10000 cashback + No Cost EMI on all models of iPad. Valid till Feb 14 at your nearest Imagine. https://goo.gl/hFJcfk",
+  "features": {
+    "entities": {
+	}
+  }
+}' \
+"https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/5686095c-864d-4d83-ae04-a14bc398a675/v1/analyze?version=2019-07-12"
+
+curl -X POST -u "apikey:to1ivMCCisdV2d6GXDOjwIygsHRDdlZdABrRxll9pQV6" \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "Valentines Day Offer, get Rs.10000 cashback + No Cost EMI on all models of iPad. Valid till Feb 14 at your nearest Imagine. https://goo.gl/hFJcfk",
+  "features": {
+    "sentiment": {},
+    "categories": {},
+    "concepts": {},
+    "entities": {},
+    "keywords": {}
+  }
+}' \
+"https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/5686095c-864d-4d83-ae04-a14bc398a675/v1/analyze?version=2019-07-12"
+
+With wks model
+
+curl -X POST -u "apikey:to1ivMCCisdV2d6GXDOjwIygsHRDdlZdABrRxll9pQV6" \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "Valentines Day Offer, get Rs.10000 cashback + No Cost EMI on all models of iPad. Valid till Feb 14 at your nearest Imagine. https://goo.gl/hFJcfk",
+  "features": {
+    "entities": {"model": "8167c069-bacd-434e-95ca-b7b1e0f57a4a"}
+  }
+}' \
+"https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/5686095c-864d-4d83-ae04-a14bc398a675/v1/analyze?version=2019-07-12"
+
+-- list deployed model in this Natural Language Understanding service instance
+curl --user "apikey:to1ivMCCisdV2d6GXDOjwIygsHRDdlZdABrRxll9pQV6" "https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/5686095c-864d-4d83-ae04-a14bc398a675/v1/models?version=2018-11-16"
+
+curl -X POST -u "apikey:to1ivMCCisdV2d6GXDOjwIygsHRDdlZdABrRxll9pQV6" \
+--header "Content-Type: application/json" \
+--data '{
+  "text": "Valentines Day Offer, get Rs.10000 cashback + No Cost EMI on all models of iPad. Valid till Feb 14 at your nearest Imagine. https://goo.gl/hFJcfk",
+  "features": {
+    "entities": {
+	"model": "8167c069-bacd-434e-95ca-b7b1e0f57a4a"
+}
+  }
+}' \
+"https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/5686095c-864d-4d83-ae04-a14bc398a675/v1/analyze?version=2019-07-12"
+
+

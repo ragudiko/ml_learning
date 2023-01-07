@@ -1,0 +1,8 @@
+{
+  "url": "https://www.mohfw.gov.in/",
+  "features": {
+    "entities":{},
+  },
+  "return_analyzed_text": true,
+  "xpath": "//div[@class='site-stats-count']"
+}

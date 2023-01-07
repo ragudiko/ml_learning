@@ -1,0 +1,8 @@
+  {
+    "url": "www.ibm.com",
+    "features": {
+      "sentiment": {
+        "model": "a609644f-8909-44aa-9ee2-257f53972117"
+      }
+    }
+  }

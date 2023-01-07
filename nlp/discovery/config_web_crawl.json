@@ -1,0 +1,55 @@
+{
+  "name": "covid-19-demo",
+  "description": "Configuration single collection - connected to multiple data source - web crawling and local file system",
+   "conversions" : {
+    "html" : {
+      "aggressive_cleanup" : true,
+      "exclude_tag_attributes" : [ "style", "class" ],
+      "exclude_tags_completely" : [ "style", "script", "header", "footer", "meta" ],
+      "keep_content": {
+        "xpaths": ["..*[@id[site-dashboard]/div/div/div/div/ul" ]
+      }
+    },
+    "json_normalizations" : [ {
+      "operation" : "remove_nulls"
+    } ]
+  },
+  "enrichments" : [ {
+    "destination_field" : "enriched_text",
+    "enrichment" : "natural_language_understanding",
+    "options" : {
+      "features" : {
+        "categories" : { },
+        "concepts" : {
+          "limit" : 8
+        },
+        "entities" : {
+          "emotion" : false,
+          "limit" : 50,
+          "sentiment" : false
+        }
+      }
+    },
+    "source_field" : "text"
+  } ],
+
+  "source" : {
+  "type" : "web_crawl",
+
+  "schedule" : {
+    "enabled" : true,
+    "frequency" : "weekly"
+  },
+  "options" : {
+     "urls" : [ {
+     "url" : "https://www.mohfw.gov.in/",
+     "limit_to_starting_hosts" : true,
+     "crawl_speed" : "normal",
+     "allow_untrusted_certificate" : false,
+     "maximum_hops"  : 0,
+     "override_robots_txt" : false
+     } ]
+  }
+}
+
+}

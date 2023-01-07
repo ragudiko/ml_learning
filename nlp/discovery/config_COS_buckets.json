@@ -1,0 +1,52 @@
+{
+  "name": "covid-19-demo-COS-buckets",
+  "description": "Configuration single collection - connected to multiple data source - crawl COS buckets and local file system",
+   "conversions" : {
+    "html" : {
+      "aggressive_cleanup" : true,
+      "exclude_tag_attributes" : [ "style", "class" ],
+      "exclude_tags_completely" : [ "style", "script", "header", "footer", "meta" ],
+      "keep_content": {
+        "xpaths": []
+      }
+    },
+    "json_normalizations" : [ {
+      "operation" : "remove_nulls"
+    } ]
+  },
+  "enrichments" : [ {
+    "destination_field" : "enriched_text",
+    "enrichment" : "natural_language_understanding",
+    "options" : {
+      "features" : {
+        "categories" : { },
+        "concepts" : {
+          "limit" : 8
+        },
+        "entities" : {
+          "emotion" : false,
+          "limit" : 50,
+          "sentiment" : false
+        }
+      }
+    },
+    "source_field" : "text"
+  } ],
+
+  "source" : {
+  "type" : "cloud_object_storage",
+  "credential_id" : "3551d5f7-58f4-4b64-b84f-2b1edc5cf6d5",
+
+  "schedule" : {
+    "enabled" : true,
+    "frequency" : "weekly"
+  },
+  "options" : {
+     "buckets" : [ {
+     "name" : "ragudiko-b1",
+     "limit" : 1
+     } ]
+  }
+}
+
+}

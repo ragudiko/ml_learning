@@ -1,0 +1,15 @@
+ {
+   "url": "www.ibm.com",
+   "features": {
+     "sentiment": {
+       "model": "714a50d1-36c7-4a57-a790-99f13cc9301c",
+       "document": false
+     },
+     "entities": {
+       "sentiment": true
+     },
+     "keywords": {
+       "sentiment": true
+     }
+   }
+ }

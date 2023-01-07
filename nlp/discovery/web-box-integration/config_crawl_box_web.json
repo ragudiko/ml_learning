@@ -1,0 +1,53 @@
+{
+  "name": "covid-19-demo-2",
+  "description": "Configuration single collection - connected to box and file system data sources",
+   "conversions" : {
+    "html" : {
+      "aggressive_cleanup" : true,
+      "exclude_tag_attributes" : [ "style", "class" ],
+      "exclude_tags_completely" : [ "style", "script", "header", "footer", "meta" ],
+      "keep_content": {
+        "xpaths": []
+      }
+    },
+    "json_normalizations" : [ {
+      "operation" : "remove_nulls"
+    } ]
+  },
+  "enrichments" : [ {
+    "destination_field" : "enriched_text",
+    "enrichment" : "natural_language_understanding",
+    "options" : {
+      "features" : {
+        "categories" : { },
+        "concepts" : {
+          "limit" : 8
+        },
+        "entities" : {
+          "emotion" : false,
+          "limit" : 50,
+          "sentiment" : false
+        }
+      }
+    },
+    "source_field" : "text"
+  } ],
+
+  "source" : {
+  "type" : "box",
+  "credential_id" : "f9d55324-bad8-45f9-b228-5519dd998320",
+
+  "schedule" : {
+    "enabled" : true,
+    "frequency" : "weekly"
+  },
+  "options" : {
+     "folders" : [{
+       "owner_user_id" : "257668309",
+       "folder_id" : "128566519564"
+     }
+     ]
+  }
+}
+
+}
